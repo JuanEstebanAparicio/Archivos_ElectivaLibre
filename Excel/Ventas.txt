@@ -1,0 +1,9 @@
+id_venta;producto;categoria;precio;cantidad;fecha;sexo
+1;Smartphone;Electronica;599;2;2024-01-10;Mujer
+2;Laptop;Computacion;1200;1;2024-01-11;Hombre
+3;Auriculares;Audio;150;5;2024-01-12;Mujer
+4;Monitor 4K;Computacion;400;2;2024-01-13;Hombre
+5;Smartwatch;Electronica;250;3;2024-01-14;Mujer
+6;Teclado Mecanico;Computacion;100;4;2024-01-15;Hombre
+7;Parlante Bluetooth;Audio;80;10;2024-01-16;Mujer
+8;Tablet;Electronica;350;2;2024-01-17;Hombre
