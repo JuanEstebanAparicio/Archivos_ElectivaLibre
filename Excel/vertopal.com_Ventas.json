@@ -1,1 +1,10 @@
-{"id_venta": null, "producto": null, "categoria": null, "precio": null, "cantidad": null, "fecha": null, "sexo\n1": null, "Smartphone": null, "Electronica": null, "599": null, "2": null, "2024-01-10": null, "Mujer\n2": null, "Laptop": null, "Computacion": null, "1200": null, "1": null, "2024-01-11": null, "Hombre\n3": null, "Auriculares": null, "Audio": null, "150": null, "5": null, "2024-01-12": null, "Mujer\n4": null, "Monitor 4K": null, "400": null, "2024-01-13": null, "Hombre\n5": null, "Smartwatch": null, "250": null, "3": null, "2024-01-14": null, "Mujer\n6": null, "Teclado Mecanico": null, "100": null, "4": null, "2024-01-15": null, "Hombre\n7": null, "Parlante Bluetooth": null, "80": null, "10": null, "2024-01-16": null, "Mujer\n8": null, "Tablet": null, "350": null, "2024-01-17": null, "Hombre": null}
+[
+  {"id_venta": 1, "producto": "Smartphone", "categoria": "Electronica", "precio": 599, "cantidad": 2, "fecha": "2024-01-10", "sexo": "Mujer"},
+  {"id_venta": 2, "producto": "Laptop", "categoria": "Computacion", "precio": 1200, "cantidad": 1, "fecha": "2024-01-11", "sexo": "Hombre"},
+  {"id_venta": 3, "producto": "Auriculares", "categoria": "Audio", "precio": 150, "cantidad": 5, "fecha": "2024-01-12", "sexo": "Mujer"},
+  {"id_venta": 4, "producto": "Monitor 4K", "categoria": "Computacion", "precio": 400, "cantidad": 2, "fecha": "2024-01-13", "sexo": "Hombre"},
+  {"id_venta": 5, "producto": "Smartwatch", "categoria": "Electronica", "precio": 250, "cantidad": 3, "fecha": "2024-01-14", "sexo": "Mujer"},
+  {"id_venta": 6, "producto": "Teclado Mecanico", "categoria": "Computacion", "precio": 100, "cantidad": 4, "fecha": "2024-01-15", "sexo": "Hombre"},
+  {"id_venta": 7, "producto": "Parlante Bluetooth", "categoria": "Audio", "precio": 80, "cantidad": 10, "fecha": "2024-01-16", "sexo": "Mujer"},
+  {"id_venta": 8, "producto": "Tablet", "categoria": "Electronica", "precio": 350, "cantidad": 2, "fecha": "2024-01-17", "sexo": "Hombre"}
+]
